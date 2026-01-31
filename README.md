@@ -50,9 +50,9 @@ Click the "Open in Colab" badge at the top of this README to run the notebook di
 
 ## Authors
 
-- **Luiz Anselmo Medeiros Lima - @luizmlima**
-- **Anne Grazieli Marques Silva - @annegmsilva**
-- **Pedro Henrique Coelho Torres - @pedroct06**
+- **Luiz Anselmo Medeiros Lima - [@luizmlima](https://github.com/luizmlima)**
+- **Anne Grazieli Marques Silva - [@annegmsilva](https://github.com/annegmsilva)**
+- **Pedro Henrique Coelho Torres - [@Pedroct06](https://github.com/Pedroct06)**
 
 ## MEISSA Project
 
