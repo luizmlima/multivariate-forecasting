@@ -13,12 +13,12 @@ The project compared 5 training scenarios. The **Modified AutoPatchTST model tra
 ### Comparison of Error Metrics
 The graphs below show that variable selection by correlation combined with hyperparameter optimization significantly reduced MAE, RMSE, and SMAPE.
 
-![Error Metrics](images/error_metrics.webp)
+![Error Metrics](images/metrics.png)
 
 ### Test Result (10-month Horizon)
 Below, the visual comparison between the forecasts of the different models and the actual values of the T89 variable. Note how the optimized model's curve (in purple) best follows the real trend.
 
-![Forecast Comparison](images/forecast_comparison.webp)
+![Forecast Comparison](images/graph.png)
 
 ---
 
